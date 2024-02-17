@@ -1,24 +1,42 @@
 body {
-    font-family: "Helvetica Neue", "Roboto", "Verdana", sans-serif;
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+  color: #434455;
+  font-size: 16px;
+  letter-spacing: 0.02em;
 }
 
-.page-title {
-    font-family: "Georgia", serif;
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+span {
+  color: #2e2f42;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
 }
 
 .section-title {
-    font-family: "Georgia", serif;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
 }
 
-.club-list .link {
-    color: #ffc107;
+ul {
+  list-style: none;
+  text-decoration: none;
 }
 
-.club-list .link:hover,
-.club-list .link:focus {
-    color: #f57f17;
-}
-
-.club-list .link:active {
-    color: #ff1744;
+a {
+  text-decoration: none;
 }
