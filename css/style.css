@@ -115,7 +115,7 @@ a.adress-list:hover {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
@@ -129,14 +129,14 @@ a.adress-list:hover {
 }
 
 .third-section {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 
 .section-tittle {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
@@ -149,7 +149,7 @@ a.adress-list:hover {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #2e2f42;
+  color: #ffffff;
 }
 
 .text-section {
