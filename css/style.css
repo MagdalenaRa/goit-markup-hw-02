@@ -1,0 +1,24 @@
+body {
+    font-family: "Helvetica Neue", "Roboto", "Verdana", sans-serif;
+}
+
+.page-title {
+    font-family: "Georgia", serif;
+}
+
+.section-title {
+    font-family: "Georgia", serif;
+}
+
+.club-list .link {
+    color: #ffc107;
+}
+
+.club-list .link:hover,
+.club-list .link:focus {
+    color: #f57f17;
+}
+
+.club-list .link:active {
+    color: #ff1744;
+}
